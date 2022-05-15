@@ -8,9 +8,7 @@ cms_1st_project = once after the unzip the zipped file, possible to see this dat
 
 ( Follow this Username and Password to login to the system )
 
-Username              Password
-
-Mohamed Ashik         1234
-Ashik                 1234
-Muhamed Ashik         1234
-Rizmy Mohamed         1234
+(Username = Mohamed Ashik, Password = 1234)
+(Username = Ashik, Password = 1234)
+(Username = Muhamed Ashik, Password = 1234)
+(Username = Rizmy Mohamed, Password = 1234)
