@@ -7,3 +7,10 @@ CMS 1st Project PHP = once after unzip the zipped file, possible to see this fol
 cms_1st_project = once after the unzip the zipped file, possible to see this database file, use this data file in your server
 
 ( Follow this Username and Password to login to the system )
+
+Username              Password
+
+Mohamed Ashik         1234
+Ashik                 1234
+Muhamed Ashik         1234
+Rizmy Mohamed         1234
